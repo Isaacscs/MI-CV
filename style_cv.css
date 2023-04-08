@@ -1,0 +1,36 @@
+/* Estilos para el encabezado */
+header {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+/* Estilos para el cuerpo */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+/* Estilos para la sección de información personal */
+.personal-info {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.personal-info h2 {
+  margin-top: 0;
+}
+/* Estilos para la sección de experiencia laboral */
+.experience {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.experience h2 {
+  margin-top: 0;
+}
+/* Estilos para la sección de educación */
+.education {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
